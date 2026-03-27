@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: bp-digital-banking-architecture
+  description: Este repositorio que contiene una propuesta de arquitectura de soluciones para un sistema de banca por internet, diseñado   para BP. 
+  annotations:
+    github.com/project-slug: crlsquilumba/bp-digital-banking-architecture
+spec:
+  type: library
+  lifecycle: experimental
+  owner: user:default/guest
